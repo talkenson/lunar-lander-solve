@@ -15,6 +15,7 @@
  
  
 #### Сами гисты
+- https://gist.github.com/154King154/180aaeb0cf82e9b480f2646b0e94466a
 - https://gist.github.com/tnnNull/1095b56a6291971ad70a5c0923a4555c
 - https://gist.github.com/tnnNull/60b9b4f436ecc2a7ddab1901edd293f6
 

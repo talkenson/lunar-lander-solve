@@ -1,4 +1,4 @@
-# TNN//null solve of LunarLander-v2 
+# TNN//null BDaT solution for LunarLander-v2 
 (Gym, OpenAI, MTS Contest - NTI)
  
  

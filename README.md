@@ -5,6 +5,7 @@
 
 ### Результат:
 ![](image.gif)
+> Обученный Агент находится в /solve/test_agent.py, веса в /solve/weights_learned_solve.zip. При запуске Агента в константу WEIGHTS_PATH указать путь к разархивированным весам.
  
  
 
